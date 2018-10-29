@@ -1,0 +1,1 @@
+function [gx,gy]=gear(Z,ha,hf)
